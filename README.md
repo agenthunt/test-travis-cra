@@ -1,3 +1,5 @@
+[![build status](https://travis-ci.com/agenthunt/test-travis-cra.svg?branch=master)](https://travis-ci.org/agenthunt/test-travis-cra)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
